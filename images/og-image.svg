@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#EEF3F5"/>
+  <ellipse cx="980" cy="180" rx="320" ry="280" fill="#FDEBD4" opacity="0.9"/>
+  <ellipse cx="1040" cy="140" rx="220" ry="190" fill="#DCEEF2" opacity="0.9"/>
+  <circle cx="112" cy="182" r="34" fill="#3E6E7E"/>
+  <svg x="96" y="166" width="32" height="32" viewBox="0 0 24 24">
+    <path d="M12 3c3 3.6 5.2 6.6 5.2 9.3a5.2 5.2 0 0 1-10.4 0C6.8 9.6 9 6.6 12 3Z" fill="#ffffff"/>
+    <circle cx="12" cy="13.6" r="1.7" fill="#F2A65A"/>
+  </svg>
+  <text x="80" y="300" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#20323A">춘천 한일윌로모터펌프</text>
+  <text x="80" y="360" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#3E6E7E">지하수·배수펌프 출장수리</text>
+  <text x="80" y="420" font-family="Pretendard, -apple-system, sans-serif" font-size="24" fill="#4F6670">신북읍·동면·남산면·서면 · 당일 출장 원칙</text>
+  <text x="80" y="560" font-family="Pretendard, -apple-system, sans-serif" font-size="20" fill="#8AA0A8">파워펌프 서비스센터 · 010-4757-3396</text>
+</svg>
